@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args)
     {
         int tileSize = 32;
-        int rows = 16; // 16
+        int rows = 16;
         int columns = 16;
         int boardWidth = tileSize * columns;
         int boardHeight = tileSize * rows;
